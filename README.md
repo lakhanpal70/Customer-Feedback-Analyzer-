@@ -1,4 +1,4 @@
-# Customer Feedback Analyzer with Gen Ai
+# Customer Feedback Analyzer 
 
 The **Customer Feedback Analyzer** is a powerful web application that helps businesses analyze customer feedback using AI. It can identify sentiment, key themes, and suggest improvements based on uploaded CSV files containing customer reviews
 
@@ -52,19 +52,7 @@ GEMINI_API_KEY=your_api_key_here
    - Choose your analysis focus (e.g., Sentiment Analysis, Theme Identification, etc.).
    - Click **"Analyze Feedback"** to generate insights.
 
-For additional guidance on building Streamlit apps with LLMs, refer to the [Streamlit LLM Quickstart Guide](https://docs.streamlit.io/develop/tutorials/chat-and-llm-apps/llm-quickstart).
----
 
-## Future Improvements
-- 📊 Add visualizations for sentiment distribution and key themes use can use matplot or pyplot 
-- 📝 Support for additional data formats (e.g., Excel) and also change the temprature of the model.
-- 🔄 Improved error handling and user guidance.
-- Also make a report to save it as pdf 
-
----
-
-## Contributing
-Contributions are welcome! If you'd like to improve the app or add features, please fork the repo and submit a pull request. Caio
 
 ###App
 ![Project Screenshot](
